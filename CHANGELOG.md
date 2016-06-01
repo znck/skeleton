@@ -2,9 +2,10 @@
 
 All Notable changes to `:package_name` will be documented in this file.
 
-Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
+> TODO: Add a changelog.
+> PRs welcome.
 
-## NEXT - YYYY-MM-DD
+## [Unreleased]
 
 ### Added
 - Nothing
@@ -20,3 +21,5 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 
 ### Security
 - Nothing
+
+[Unreleased]: https://github.com/:vendor/:package_name/compare/v2.2...HEAD

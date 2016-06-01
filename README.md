@@ -1,7 +1,5 @@
 # :package_name
 
-**Note:** Replace ```:author_name``` ```:author_username``` ```:author_website``` ```:author_email``` ```:vendor``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
-
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
 
@@ -11,11 +9,11 @@ PSRs you support to avoid any confusion with users and contributors.
   <a href="https://styleci.io/repos/:styleci_id">
     <img src="https://styleci.io/repos/:styleci_id/shield" alt="StyleCI Status" />
   </a>
-  <a href="https://circleci.com/gh/:vendor/:package_name">
-    <img src="https://circleci.com/gh/:vendor/:package_name.svg?style=svg" alt="Build Status" />
+  <a href="https://circleci.com/gh/:circleci_username/:package_name">
+    <img src="https://circleci.com/gh/:circleci_username/:package_name.svg?style=svg" alt="Build Status" />
   </a>
-  <a href="https://coveralls.io/github/:vendor/:package_name?branch=master">
-    <img src="https://coveralls.io/repos/github/:vendor/:package_name/badge.svg?branch=master&style=flat-square" alt="Coverage Status" />
+  <a href="https://coveralls.io/github/:coveralls_username/:package_name?branch=master">
+    <img src="https://coveralls.io/repos/github/:coveralls_username/:package_name/badge.svg?branch=master&style=flat-square" alt="Coverage Status" />
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="Software License" />
@@ -23,12 +21,12 @@ PSRs you support to avoid any confusion with users and contributors.
   <a href="https://packagist.org/packages/:vendor/:package_name">
     <img src="https://img.shields.io/packagist/v/:vendor/:package_name.svg?style=flat-square" alt="Packagist" />
   </a>
-  <a href="https://github.com/:vendor/:package_name/releases">
-    <img src="https://img.shields.io/github/release/:vendor/:package_name.svg?style=flat-square" alt="Latest Version" />
+  <a href="https://github.com/:github_username/:package_name/releases">
+    <img src="https://img.shields.io/github/release/:github_username/:package_name.svg?style=flat-square" alt="Latest Version" />
   </a>
 
-  <a href="https://github.com/:vendor/:package_name/issues">
-    <img src="https://img.shields.io/github/issues/:vendor/:package_name.svg?style=flat-square" alt="Issues" />
+  <a href="https://github.com/:github_username/:package_name/issues">
+    <img src="https://img.shields.io/github/issues/:github_username/:package_name.svg?style=flat-square" alt="Issues" />
   </a>
 </p>
 

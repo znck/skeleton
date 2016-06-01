@@ -1,6 +1,9 @@
-build
-.coveralls.yml
-.php_cs.cache
+# PHPUnit Coverage output
+/build
+# Coveralls Token
+/.coveralls.yml
+# PHP-CS-FIXER cache
+/.php_cs.cache
 
 # Created by .ignore support plugin (hsz.mobi)
 ### JetBrains template
@@ -105,4 +108,3 @@ sftp-config.json
 
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
-
