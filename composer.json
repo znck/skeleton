@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            ":vendor\\:package_name\\": "src"
+            ":Vendor\\:Package_name\\": "src//"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            ":vendor\\Tests\\:package_name\\": "tests"
+            ":Vendor\\Tests\\:Package_name\\": "tests//"
         }
     },
     "scripts": {
