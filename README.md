@@ -72,5 +72,5 @@ If you discover any security related issues, please email :author_email instead 
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[link-author]: https://github.com/:author_username
+[link-author]: https://github.com/:github_username
 [link-contributors]: ../../contributors
